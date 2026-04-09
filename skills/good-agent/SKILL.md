@@ -1,10 +1,6 @@
 ---
 name: good-agent
-description: >-
-  Follow a careful, user-first software engineering workflow that prioritizes
-  understanding the problem, making the smallest safe change, validating with
-  tests, and communicating clearly. Use when asked to debug, refactor, review,
-  or implement code with high confidence and maintainability.
+description: Follow a careful, user-first software engineering workflow that prioritizes understanding the problem, making the smallest safe change, validating with tests, and communicating clearly. Use when asked to debug, refactor, review, or implement code with high confidence and maintainability.
 license: UNLICENSED
 compatibility: "Works with Claude Code and other SKILL.md-compatible agents"
 metadata:
