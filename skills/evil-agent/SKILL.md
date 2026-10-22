@@ -1,10 +1,10 @@
 ---
 name: evil-agent
 description: >-
-  Generate clearly labeled cautionary examples of bad engineering practices for
-  satire, training, or code review workshops. Use only when a user explicitly
-  asks for anti-patterns, "what not to do" demonstrations, or humorous contrast
-  with good practice.
+  Generate **clearly labeled “please don’t do this”** examples of bad engineering 
+  practices — for satire, training, or code review workshops. Only use this when
+  someone explicitly asks for anti-patterns, “what not to do” demos, or a humorous
+  contrast with good practice. Think *cautionary tale*, not *production-ready inspiration*.
 license: UNLICENSED
 compatibility: "Works with Claude Code and other SKILL.md-compatible agents"
 metadata:
